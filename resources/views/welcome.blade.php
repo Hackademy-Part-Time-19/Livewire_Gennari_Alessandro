@@ -1,4 +1,4 @@
 <x-layouts.app>
     <h1 class="text-secondary">Livewire</h1>
-    <livewire:form/>
+    <livewire:SearchUsers/>
 </x-layouts.app>
